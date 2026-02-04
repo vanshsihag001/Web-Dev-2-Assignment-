@@ -1,1 +1,3 @@
 # Web-Dev-2-Assignment-
+<img width="1920" height="1012" alt="{2A2828A9-0760-4DD7-A454-F0A829DA1ED8}" src="https://github.com/user-attachments/assets/d5fb37ad-9ef8-4824-9c7a-fae8cce3bb03" />
+This is what the final result will look like....... 
